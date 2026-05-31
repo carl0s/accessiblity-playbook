@@ -44,6 +44,14 @@ The goal is a living, multi-source accessibility knowledge base. If you know a g
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide.
 
+## License
+
+This work is licensed under [**Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**](https://creativecommons.org/licenses/by-sa/4.0/) — see [LICENSE](LICENSE).
+
+CC BY-SA 4.0 is required here (rather than a more permissive license) to comply with the **ShareAlike** obligation of the Appt Accessibility Handbook, whose content is itself CC BY-SA 4.0. Any redistribution or adaptation of this knowledge base must therefore keep the same license and preserve attribution to all original sources listed below — including a visible link to <https://appt.org>.
+
+> Note: *Giving a Damn About Accessibility* is **not** distributed under an open-content license. It is summarized here (not reproduced verbatim) with attribution; this repo's CC BY-SA 4.0 license covers the original distillation, **not** the underlying work. Please refer to the author's terms before reusing material derived from it.
+
 ## Credits & source licenses
 
 This knowledge base distills and is built upon the work of others. All credit for the underlying material goes to the original authors and publishers. Their works are reused here in line with their respective licenses; please honor those terms (including attribution) in any further reuse.
