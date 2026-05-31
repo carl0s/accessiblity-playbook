@@ -40,13 +40,9 @@ Commit `.claude/skills/accessability-playbook/` so teammates get it automaticall
 
 **This is a collaborative project — PRs are more than welcome!** 🙌
 
-The goal is a living, multi-source accessibility knowledge base. If you know a great resource — a book, handbook, standard, guideline, research paper, or practical pattern — please open a PR to integrate it. Good contributions include:
+The goal is a living, multi-source accessibility knowledge base. If you know a great resource — a book, handbook, standard, guideline, research paper, or practical pattern — please open a PR to integrate it. When adding a new source, credit the original author(s) and cite the work's license (see below), and only include material whose license permits redistribution.
 
-- New source material distilled into a chapter under `chapters/`, tagged so it fits the cross-book framework in `SKILL.md`.
-- Additions to `glossary.md`, `patterns.md`, or `cheatsheet.md`.
-- Corrections, clearer plain-language phrasing, and better cross-references.
-
-When you add a new source, please credit the original author(s) and cite the work's license below, and only include material whose license permits redistribution. Open an issue first if you're unsure whether a source can be included.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide.
 
 ## Credits & source licenses
 
