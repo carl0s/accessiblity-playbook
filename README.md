@@ -35,3 +35,25 @@ Commit `.claude/skills/accessability-playbook/` so teammates get it automaticall
 3. Invoke it by asking an accessibility question, or pass a topic/chapter directly, e.g. `appt-ch03`, a WCAG criterion, or a framework name.
 
 > The directory name must match the `name:` field in `SKILL.md` (`accessability-playbook`). Claude Code loads any folder containing a `SKILL.md` from `~/.claude/skills/` (personal) or `.claude/skills/` (project).
+
+## Contributing
+
+**This is a collaborative project — PRs are more than welcome!** 🙌
+
+The goal is a living, multi-source accessibility knowledge base. If you know a great resource — a book, handbook, standard, guideline, research paper, or practical pattern — please open a PR to integrate it. Good contributions include:
+
+- New source material distilled into a chapter under `chapters/`, tagged so it fits the cross-book framework in `SKILL.md`.
+- Additions to `glossary.md`, `patterns.md`, or `cheatsheet.md`.
+- Corrections, clearer plain-language phrasing, and better cross-references.
+
+When you add a new source, please credit the original author(s) and cite the work's license below, and only include material whose license permits redistribution. Open an issue first if you're unsure whether a source can be included.
+
+## Credits & source licenses
+
+This knowledge base distills and is built upon the work of others. All credit for the underlying material goes to the original authors and publishers. Their works are reused here in line with their respective licenses; please honor those terms (including attribution) in any further reuse.
+
+- **AccessAbility Playbook** — by **ESDC, Centre of Expertise for Accessible Client Service (Government of Canada)**. Crown Copyright © His Majesty the King in Right of Canada; Government of Canada material is generally made available for reuse under the [Open Government Licence – Canada](https://open.canada.ca/en/open-government-licence-canada). Source: <https://ceacs-cesca.github.io/playbook/>.
+- **Giving a Damn About Accessibility** — by **Sheri Byrne-Haber, CPACC**. © Sheri Byrne-Haber. Distributed free of charge by the author (PDF + audiobook); it does not carry an explicit open-content license, so please refer to the author's terms before redistributing. Source: <https://www.accessibility.uxdesign.cc/>.
+- **Appt Accessibility Handbook** — by the **Appt Foundation**. Content licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and code under the [MIT license](https://opensource.org/licenses/MIT); attribution requires a visible link to <https://appt.org>. Source: <https://appt.org/en/handbook>.
+
+> Note on licenses: where a source uses a ShareAlike or restrictive license, any redistribution (including this repo's derived summaries) must comply with the original terms. If you believe content here misattributes or misuses a source, please open an issue and it will be corrected promptly.
